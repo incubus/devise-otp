@@ -1,6 +1,7 @@
 # Changelog
 
-## Unreleased
+## v2.0.0
+
 Bug fixes:
 - Fixed an issue where Turbo/Hotwire enabled applications return a JS error for failed OTP authentication;
 - Fixed an issue with the "Remember me" functionality for users with OTP enabled;
